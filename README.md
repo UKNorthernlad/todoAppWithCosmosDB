@@ -8,7 +8,7 @@ https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/quickstart-nodejs
 Build a Node.js web app by using the JavaScript SDK to manage an API for NoSQL account in Azure Cosmos DB
 https://learn.microsoft.com/en-us/azure/cosmos-db/nosql/tutorial-nodejs-web-app
 
-az cosmosdb create --name ourmoviedb99 --resource-group containers
+az cosmosdb create --name tododb99 --resource-group containers
 
 npm install express-generator -g
 
